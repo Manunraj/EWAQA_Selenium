@@ -1,0 +1,15 @@
+{
+    "id": 3,
+    "children": [
+        {
+            "name": "Candidate.js",
+            "type": "suite",
+            "dir": "Candidate.js",
+            "id": 5,
+            "chrome59": 1
+        }
+    ],
+    "name": "Candidate.js",
+    "type": "file",
+    "chrome59": 1
+}

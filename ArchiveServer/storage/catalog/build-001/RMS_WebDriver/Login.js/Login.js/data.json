@@ -1,0 +1,98 @@
+{
+    "id": 14,
+    "children": [
+        {
+            "id": 15,
+            "name": "Employee Good Login",
+            "type": "test",
+            "chrome59": true,
+            "details": [
+                {
+                    "browser": "chrome59",
+                    "expectations": [
+                        {
+                            "passed": true,
+                            "message": "Expected 1 to be 1.",
+                            "status": "passed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Bad Login",
+            "type": "test",
+            "chrome59": true,
+            "details": [
+                {
+                    "browser": "chrome59",
+                    "expectations": []
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Validate User Name For Email",
+            "type": "test",
+            "chrome59": true,
+            "details": [
+                {
+                    "browser": "chrome59",
+                    "expectations": []
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Validate User Name For Phone Number",
+            "type": "test",
+            "chrome59": true,
+            "details": [
+                {
+                    "browser": "chrome59",
+                    "expectations": []
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "HR Good Login",
+            "type": "test",
+            "chrome59": true,
+            "details": [
+                {
+                    "browser": "chrome59",
+                    "expectations": [
+                        {
+                            "passed": true,
+                            "message": "Expected 1 to be 1.",
+                            "status": "passed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Manager Good Login",
+            "type": "test",
+            "chrome59": true,
+            "details": [
+                {
+                    "browser": "chrome59",
+                    "expectations": [
+                        {
+                            "passed": true,
+                            "message": "Expected 1 to be 1.",
+                            "status": "passed"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "Login.js",
+    "type": "suite",
+    "chrome59": 0
+}

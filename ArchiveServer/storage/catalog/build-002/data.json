@@ -1,0 +1,27 @@
+{
+    "children": [
+        {
+            "name": "Screenshot",
+            "type": "dir",
+            "dir": "Screenshot",
+            "id": 2,
+            "chrome59": 1
+        }
+    ],
+    "scenarios": [
+        {
+            "path": "Screenshot"
+        }
+    ],
+    "browsers": [
+        {
+            "id": "chrome59",
+            "canonicalName": "chrome",
+            "version": 59,
+            "canonicalPlatform": null,
+            "displayName": "Chrome"
+        }
+    ],
+    "chrome59": 1,
+    "maxId": 6
+}

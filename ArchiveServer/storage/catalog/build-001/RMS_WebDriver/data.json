@@ -1,0 +1,43 @@
+{
+    "id": 2,
+    "children": [
+        {
+            "name": "Candidate.js",
+            "type": "file",
+            "dir": "Candidate.js",
+            "id": 3,
+            "chrome59": 1
+        },
+        {
+            "name": "HR.js",
+            "type": "file",
+            "dir": "HR.js",
+            "id": 7,
+            "chrome59": 0
+        },
+        {
+            "name": "Login.js",
+            "type": "file",
+            "dir": "Login.js",
+            "id": 12,
+            "chrome59": 0
+        },
+        {
+            "name": "Manager.js",
+            "type": "file",
+            "dir": "Manager.js",
+            "id": 21,
+            "chrome59": 0
+        },
+        {
+            "name": "test.js",
+            "type": "file",
+            "dir": "test.js",
+            "id": 25,
+            "chrome59": 1
+        }
+    ],
+    "name": "RMS_WebDriver",
+    "type": "dir",
+    "chrome59": 2
+}

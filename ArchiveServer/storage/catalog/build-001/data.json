@@ -1,0 +1,27 @@
+{
+    "children": [
+        {
+            "name": "RMS_WebDriver",
+            "type": "dir",
+            "dir": "RMS_WebDriver",
+            "id": 2,
+            "chrome59": 2
+        }
+    ],
+    "scenarios": [
+        {
+            "path": "RMS_WebDriver"
+        }
+    ],
+    "browsers": [
+        {
+            "id": "chrome59",
+            "canonicalName": "chrome",
+            "version": 59,
+            "canonicalPlatform": null,
+            "displayName": "Chrome"
+        }
+    ],
+    "chrome59": 2,
+    "maxId": 28
+}

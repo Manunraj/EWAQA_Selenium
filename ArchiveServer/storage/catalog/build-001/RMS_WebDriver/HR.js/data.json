@@ -1,0 +1,15 @@
+{
+    "id": 7,
+    "children": [
+        {
+            "name": "HR.js",
+            "type": "suite",
+            "dir": "HR.js",
+            "id": 9,
+            "chrome59": 0
+        }
+    ],
+    "name": "HR.js",
+    "type": "file",
+    "chrome59": 0
+}

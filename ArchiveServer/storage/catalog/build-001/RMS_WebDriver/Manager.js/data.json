@@ -1,0 +1,15 @@
+{
+    "id": 21,
+    "children": [
+        {
+            "name": "Manager.js",
+            "type": "suite",
+            "dir": "Manager.js",
+            "id": 23,
+            "chrome59": 0
+        }
+    ],
+    "name": "Manager.js",
+    "type": "file",
+    "chrome59": 0
+}

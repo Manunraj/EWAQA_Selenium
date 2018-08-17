@@ -1,0 +1,28 @@
+{
+    "archives": {
+        "": {
+            "path": "/catalog.json"
+        }
+    },
+    "count": 3,
+    "runs": {
+        "build-001": {
+            "id": 1,
+            "path": "build-001.zip",
+            "uploaded": 1499328950070,
+            "lastUpdated": 1499328950070
+        },
+        "build-002": {
+            "id": 2,
+            "path": "build-002.zip",
+            "uploaded": 1499334929106,
+            "lastUpdated": 1499335324131
+        },
+        "8c14cdf0-6232-11e7-b71a-af3b755ab22d": {
+            "id": 3,
+            "path": "8c14cdf0-6232-11e7-b71a-af3b755ab22d.zip",
+            "uploaded": 1499335528366,
+            "lastUpdated": 1499335528366
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "id": 5,
+    "children": [
+        {
+            "id": 6,
+            "name": "Candidate Status Check",
+            "type": "test",
+            "chrome59": false,
+            "details": [
+                {
+                    "browser": "chrome59",
+                    "expectations": [
+                        {
+                            "passed": false,
+                            "message": "Timeout waiting for visible to be true for ST.future.Component",
+                            "status": "failed"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "Candidate.js",
+    "type": "suite",
+    "chrome59": 1
+}
